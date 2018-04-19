@@ -55,18 +55,8 @@
 
     (JP--G3ooEeeJIwrF5BVsIg_b60d752c05bec0881d8ca08cfc2646d2_Screen-Shot-2017-08-05-at-2.30.09-PM.png)
     
-    - [ ] x-axis is the amount of data
-
-y-axis is the size of the model you train.
-    - [ ] x-axis is the input to the algorithm
-
-          y-axis is outputs.
-    - [x] x-axis is the amount of data
-
-          y-axis (vertical axis) is the performance of the algorithm.
-    - [ ] x-axis is the performance of the algorithm
-
-          y-axis (vertical axis) is the amount of data.
+    - x-axis is the amount of data
+    - y-axis (vertical axis) is the performance of the algorithm.
 
 10. Assuming the trends described in the previous question's figure are accurate (and hoping you got the axis labels right), which of the following are true? (Check all that apply.)
 
