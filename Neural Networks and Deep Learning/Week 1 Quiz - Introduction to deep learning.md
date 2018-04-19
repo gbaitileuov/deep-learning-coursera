@@ -18,6 +18,8 @@
 
 3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)
 
+    ![test](images/IMG_20180419_193209_543.jpg)
+
     - [x] Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
     - [x] Faster computation can help speed up how long a team takes to iterate to a good idea.
     - [ ] It is faster to train on a big dataset than a small dataset.
