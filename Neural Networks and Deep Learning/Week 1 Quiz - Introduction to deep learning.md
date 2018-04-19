@@ -7,7 +7,7 @@
     - [ ] AI is powering personal devices in our homes and offices, similar to electricity.
     - [ ] AI runs on computers and is thus powered by electricity, but it is letting computers do things not possible before.
     
-    Note: Andrew illustrated the same idea in the lecture.
+    *Note: Andrew illustrated the same idea in the lecture.*
 
 2. Which of these are reasons for Deep Learning recently taking off? (Check the three options that apply.)
 
@@ -28,7 +28,7 @@
     - [ ] True
     - [x] False
     
-    Note: Maybe some experience may help, but nobody can always find the best model or hyperparameters without iterations.
+    *Note: Maybe some experience may help, but nobody can always find the best model or hyperparameters without iterations.*
     
 5. Which one of these plots represents a ReLU activation function?
 
@@ -57,7 +57,7 @@
     
     - [ ] x-axis is the amount of data
 
-          y-axis is the size of the model you train.
+y-axis is the size of the model you train.
     - [ ] x-axis is the input to the algorithm
 
           y-axis is outputs.
