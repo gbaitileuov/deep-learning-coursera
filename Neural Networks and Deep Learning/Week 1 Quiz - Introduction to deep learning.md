@@ -32,7 +32,7 @@
     
 5. Which one of these plots represents a ReLU activation function?
 
-    - ![Rectifier_(neural_networks)](/images/sBkbVnGkEee1BBJ2zgI9PA_2e3410579d847b4df4c2cf2691d63d3e_figure3.png)
+    - ![Rectifier_(neural_networks)](/images/IMG_20180419_192252_696.jpg)
 
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
 
@@ -53,7 +53,7 @@
 
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
-    (JP--G3ooEeeJIwrF5BVsIg_b60d752c05bec0881d8ca08cfc2646d2_Screen-Shot-2017-08-05-at-2.30.09-PM.png)
+    (/images/IMG_20180419_192255_628.jpg)
     
     - x-axis is the amount of data
     - y-axis (vertical axis) is the performance of the algorithm.
